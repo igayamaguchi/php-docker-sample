@@ -1,0 +1,3 @@
+<?php
+adsaf
+phpinfo();
